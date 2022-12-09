@@ -13,9 +13,10 @@ Floor Plan is simple JavaScript Project in which we can make floor plans using s
 
 ## Documentation
 
-Explore page displays all the NFT listed on the Marketplace.
+Just click the shape you want to create , then drag wherever you want.
+Adjust the place of shapes according to your requirements.
+Click save button to download the file.
 
-The Market Contract have authorization on NFT Contract , which manages all the NFT.
 ## Tech Stack
 
 **Frontend:** JavaScipt, CSS, HTML , FabricJs
