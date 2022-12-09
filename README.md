@@ -23,5 +23,5 @@ Click save button to download the file.
 
 ## Screenshots
 
-<img width="432" alt="screenshot_1" src="https://user-images.githubusercontent.com/54182371/206761792-34a0658f-de74-4b99-9608-6d56f4c65223.PNG">
+<img width="422" alt="screenshot_1" src="https://user-images.githubusercontent.com/54182371/206763655-b47428a8-0296-46e7-af6f-8101ce50fe56.PNG">
 <img width="960" alt="screenshot_2" src="https://user-images.githubusercontent.com/54182371/206761812-6ccf0645-e622-435a-8d45-4d9269568e19.PNG">
